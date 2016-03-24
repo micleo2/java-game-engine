@@ -1,0 +1,2 @@
+This folder must be used together as a whole; one class always depends on another. 
+"ImageLoader" and "Sound" exclude this rule; they may be used independently.
